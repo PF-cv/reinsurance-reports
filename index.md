@@ -20,8 +20,8 @@ Catalogue de publications financières officielles pour neuf réassureurs.
 |---|---|---|
 | S1 2026 | Rapport semestriel | [Half-Year Financial Report 2026](https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Half-Year-Financial-Report-2026-en.pdf/_jcr_content/renditions/original./MunichRe-Half-Year-Financial-Report-2026-en.pdf) |
 | 2025 | Rapport annuel | [Group Annual Report 2025](https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2025-annual-report/MunichRe-Group-Annual-Report-2025-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2025-en.pdf) |
-| 2024 | Rapport annuel | https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2024-annual-report/MunichRe-Group-Annual-Report-2024-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2024-en.pdf |
-| 2023 | Rapport annuel | https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2023-annual-report/MunichRe-Group-Annual-Report-2023-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2023-en.pdf |
+| 2024 | Rapport annuel | [Annual Report 2024] (https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2024-annual-report/MunichRe-Group-Annual-Report-2024-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2024-en.pdf) |
+| 2023 | Rapport annuel | [Annual report 2023] (https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2023-annual-report/MunichRe-Group-Annual-Report-2023-en.pdf/_jcr_content/renditions/original./MunichRe-Group-Annual-Report-2023-en.pdf) |
 
 ## Swiss Re
 
