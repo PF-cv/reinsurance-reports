@@ -96,4 +96,12 @@ Catalogue de publications financières officielles pour neuf réassureurs.
 
 ## PartnerRe
 
-À compléter.
+Official source: [PartnerRe Financial Information](https://www.partnerre.com/financial-information/)
+
+| Reporting period | Document | Publication |
+|---|---|---|
+| H1 2026 | [PartnerRe Ltd. Reports First Half 2026 Results](https://www.partnerre.com/wp-content/uploads/2026/07/Q2-2026-Press-Release.pdf) | July 2026 |
+| FY 2025 | [2025 Consolidated Financial Statements](https://www.partnerre.com/wp-content/uploads/2026/03/2025-Consolidated-Financial-Statements.pdf) | March 2026 |
+| FY 2024 | [2024 Consolidated Financial Statements](https://www.partnerre.com/wp-content/uploads/2025/03/2024-PartnerRe-Ltd.-Consolidated-Financial-Statements.pdf) | March 2025 |
+| FY 2023 | [2023 SEC Form 20-F](https://www.partnerre.com/wp-content/uploads/2024/03/2023-SEC-Form-20F-pdf.pdf) | March 2024 |
+| FY 2022 | [2022 SEC Form 20-F](https://www.partnerre.com/wp-content/uploads/2023/10/2022-SEC-Form-20-F.pdf) | October 2023 |
