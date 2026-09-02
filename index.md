@@ -86,9 +86,13 @@ Catalogue de publications financières officielles pour neuf réassureurs.
 | 2023 | Rapport annuel | [Everest Group Annual Report 2023](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001095073/32576166-e0ed-46db-a6ce-75448b7c2194.pdf) |
 
 
-## Arch Capital
+## Arch Capital Group
 
-À compléter.
+- [Investor Relations](https://ir.archgroup.com/overview/default.aspx)
+- [Q2 2026 – Form 10-Q](https://s205.q4cdn.com/950744987/files/doc_financials/2026/q2/ACGL-10Q-6-30-26-8-4-26.pdf)
+- [2025 – Form 10-K](https://s205.q4cdn.com/950744987/files/doc_financials/2025/q4/2025-10-K-2-26-26.pdf)
+- [2024 – Annual Report](https://s205.q4cdn.com/950744987/files/doc_financials/2024/ar/365-2024-Annual-Report-Final-wbookmarks.pdf)
+- [2023 – Form 10-K](https://s205.q4cdn.com/950744987/files/doc_financials/2023/q4/10K-2023.pdf)
 
 ## AXIS Capital
 
