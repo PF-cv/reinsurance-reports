@@ -25,8 +25,6 @@ Catalogue de publications financières officielles pour neuf réassureurs.
 
 ## Swiss Re
 
-## Swiss Re
-
 **Investor page:**  
 [Swiss Re Investors](https://www.swissre.com/investors.html)
 
@@ -40,7 +38,15 @@ Catalogue de publications financières officielles pour neuf réassureurs.
 
 ## Hannover Re
 
-À compléter.
+**Page investisseurs :**  
+[Results and reports](https://www.hannover-re.com/en/investors/results-and-reports)
+
+| Période | Type | Document officiel |
+|---|---|---|
+| S1 2026 | Rapport semestriel | [Hannover Re Interim Report Q2 2026](https://assets.hannover-re.com/asset/533267266226/document_r4ltuajdlp19pcdnr7pupk0771/2026_QB2_E.pdf?content-disposition=inline) |
+| 2025 | Rapport annuel | [Hannover Re Group Annual Report 2025](https://assets.hannover-re.com/asset/533267266226/document_vm5644i6q91ol8khnekpbcrt3s/2025_GBKonzern_e.pdf?content-disposition=inline) |
+| 2024 | Rapport annuel | [Hannover Re Group Annual Report 2024](https://assets.hannover-re.com/asset/533267266226/document_ba3r40ktgd3617as47ud9q8l7e/2024_GBKonzern_e.pdf?content-disposition=inline) |
+| 2023 | Rapport annuel | [Hannover Re Group Annual Report 2023](https://assets.hannover-re.com/asset/533267266226/document_3vbe9u7skd27l46hfnb7r5ic1g/2023_GBKonzern_e.pdf?content-disposition=inline) |
 
 ## SCOR
 
