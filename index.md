@@ -50,7 +50,16 @@ Catalogue de publications financières officielles pour neuf réassureurs.
 
 ## SCOR
 
-À compléter.
+**Page investisseurs :**  
+[Informations financières SCOR](https://www.scor.com/en/financial-information)
+
+| Période | Type | Document officiel |
+|---|---|---|
+| S1 2026 | Rapport semestriel | [SCOR Half-Year Financial Report 2026](https://www.scor.com/en/download/file?token=def5020057ea16587a61bd70ceb14b9a664b40bfac2419ab46703740b950bda975f5cc9dd1808fa9e7cdad43b564003b2698f4f2e7c0e675eac2671388f1a0c6ef2a6eaa6591d49da358995644c7208ffd2331c169b788a1917c39191e550af60e148148f9400f62cd88a5c69cd9f11644f232599e7b6358dcf1c1f848598f4417b763fab6) |
+| 2025 | Rapport annuel | [SCOR Annual Report 2025](https://www.scor.com/en/download/file?token=def5020005d51eb9d493d7f5612a7bd20496dc5d5d0ce76cb8ca0f3955307a2a219cc8ff1e2d99895d4f16595f270bc495d24bc4708bafa2b22a6ac7aa8d48685c820477580e613f790da96ca35f0321bd944247d0575552563b8ce5cdcb883e7bd07103da3df188db9634a5444576ca26072297c9f43ae54f2e24e396138256de8bfb68eb) |
+| 2024 | Rapport annuel | [SCOR Annual Report 2024](https://www.scor.com/en/download/file?token=def50200f6f91ecca5556838ee9f28328afcc177e473dd827d9aa6ddf80f39cca0b74e4f8206d41b617107de8755cead0455d170ae7c38775e1c1934a3f01d5bc0a6607ec03d52a412f542695f72d3d6271593deaa08f56d0815d40af1c942c102f7b53b7fa48c383a7fd2e6b64c55c79ad8392d51f7678255de706fa24e8a7bba2bca4ce6) |
+| 2023 | Rapport annuel | [SCOR Annual Report 2023](https://www.scor.com/en/download/file?token=def502001315e8269963d86fc1adc57072d33f9559bde74fb520a5b4de135083a176a704eeb9a6d8b542ba24a3bce49ba8706da547a34bd8e454cff83e55d8969b23b8a753fcae7cdd3d56da9b9268f18f7962bcc5bc472cf769e6970774e996cebbb2a99fe87fc375e00a9a30f6fd7ed1e76c5c3cbc4f652c82a4a4621cc455f8b3428b61) |
+
 
 ## RenaissanceRe
 
